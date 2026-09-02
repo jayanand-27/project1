@@ -2,4 +2,4 @@
 yaaa
 
 # title
-learning full stack web develpment
+learning full stack web develpment.
